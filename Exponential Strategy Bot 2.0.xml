@@ -30,7 +30,7 @@
             <field name="VAR" id="IuS7w^IfF%%reKqf6Qcq" variabletype="">Expected Profit</field>
             <value name="VALUE">
               <block type="math_number" id="pGL%0jCRlD;R_i-Q:?jz">
-                <field name="NUM">20</field>
+                <field name="NUM">0123456789</field>
               </block>
             </value>
             <next>
@@ -403,5 +403,5 @@
         </next>
       </block>
     </statement>
-  </block>
+  </analyses digits under 9 only>
 </xml>
